@@ -2,3 +2,5 @@
 
 /config/certs/cert.pem
 /config/certs/key.key
+
+/node_modules
